@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/tab_main"
+        icon="@mipmap/bottom_home_icon"
+        title="首页" />
+    <tab
+        id="@+id/tab_mv"
+        icon="@mipmap/bottom_mv_unselect"
+        title="MV" />
+    <tab
+        id="@+id/tab_vbang"
+        icon="@mipmap/bottom_vbang_unselect"
+        title="V榜" />
+    <tab
+        id="@+id/tab_yuedan"
+        icon="@mipmap/bottom_yuedan_unselect"
+        title="悦单" />
+</tabs>
