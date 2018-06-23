@@ -16,7 +16,6 @@ import android.os.IBinder;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.ImageView;
@@ -25,7 +24,7 @@ import android.widget.RelativeLayout;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.z.zmusicplayer.MusicplayerService;
+import com.z.zmusicplayer.service.MusicplayerService;
 import com.z.zmusicplayer.R;
 import com.z.zmusicplayer.bean.Constant;
 import com.z.zmusicplayer.bean.MusicItem;

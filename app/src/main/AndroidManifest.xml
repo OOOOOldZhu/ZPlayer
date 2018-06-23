@@ -13,15 +13,18 @@
         android:roundIcon="@drawable/yy"
         android:supportsRtl="true"
         android:theme="@style/MyAppTheme">
-        <activity android:name=".SplashActivity">
+        <activity android:name=".zhu_demo.Zhu_Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" />
-        <activity android:name=".activity.MusicPlayerActivity"></activity>
+        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".activity.MusicPlayerActivity" />
+        <!--<activity android:name=".zhu_demo.Zhu_Activity"></activity>-->
+        <service android:name=".zhu_demo.MusicplayService"/>
+        <service android:name=".service.MusicplayerService"/>
     </application>
 
 </manifest>
