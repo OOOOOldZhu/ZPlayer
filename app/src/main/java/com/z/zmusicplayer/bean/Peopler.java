@@ -3,9 +3,6 @@ package com.z.zmusicplayer.bean;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-/**
- * Created by wschun on 2016/9/29.
- */
 
 public class Peopler implements Parcelable {
     private String name;

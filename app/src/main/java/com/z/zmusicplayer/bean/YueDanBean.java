@@ -2,11 +2,6 @@ package com.z.zmusicplayer.bean;
 
 import java.util.List;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/5/11
- * YinYueTai
- */
 public class YueDanBean {
     /**
      * playLists : [{"id":4196796,"title":"诗歌与热情✾灵魂奏鸣曲✾乐圣贝多芬","thumbnailPic":"http://img4.yytcdn.com/video/mv/150426/2279833/-M-6413bd0c108a214251c40e46b43cf07d_240x135.jpg","playListPic":"http://img4.c.yinyuetai.com/video/playlist/160509/0/-M-8582556b68dbe6297b96f2b792341771_110x110.jpg","playListBigPic":"http://img4.c.yinyuetai.com/video/playlist/160509/0/-M-8582556b68dbe6297b96f2b792341771_600x600.jpg","videoCount":71,"description":"\u201c音乐应当使人类的精神爆发出火花。\u201d\n贝多芬集古典音乐的大成,同时开辟了浪漫时期音乐的道路,对世界音乐的发展有着举足轻重的作用,被尊称为\"乐圣\"。贝多芬的伟大,决不仅在于身为一个音乐家。他有对于人生的大苦闷与精练的美丽的灵魂,他是心的英雄。他的音乐就是这英雄心的表现。他一共创作了9部交响曲,其中最为人熟知的为《第三\u201c英雄\u201d交响曲》、《第五\u201c命运\u201d交响曲》、《第六\u201c田园\u201d交响曲》和《第九\u201c合唱\u201d交响曲》。他的钢琴音乐作品则以热情豪放和对比强烈的交响性着称。钢琴奏鸣曲在他的作品中占有重要的地位,不但体现了他个人音乐创作风格的演变,而且预示了钢琴音乐从古典主义进入浪漫主义的过程。","category":"","creator":{"uid":20066961,"nickName":"一池瑶琴","smallAvatar":"http://img4.yytcdn.com/user/avatar/130915/20066961/7A9601411FE5A41702266DA7498434A5_50x50.jpeg","largeAvatar":"http://img4.yytcdn.com/user/avatar/130915/20066961/7A9601411FE5A41702266DA7498434A5_100x100.jpeg","vipLevel":0},"status":0,"totalViews":2943,"totalFavorites":50,"updateTime":"2016-05-11 10:45","createdTime":"2016-05-09 14:13","integral":125,"weekIntegral":125,"totalUser":4,"rank":0},{"id":4196243,"title":"总有那么一首歌会让你轻声跟着哼","thumbnailPic":"http://img0.yytcdn.com/video/mv/160508/2841251/-M-d655a70feba07bd873918628a983ad99_240x135.jpg","playListPic":"http://img1.c.yinyuetai.com/video/playlist/160508/0/-M-ea830dfa3ad2815a2108c7a8305a82f1_110x110.jpg","playListBigPic":"http://img1.c.yinyuetai.com/video/playlist/160508/0/-M-ea830dfa3ad2815a2108c7a8305a82f1_600x600.jpg","videoCount":30,"description":"五味杂陈","category":"","creator":{"uid":5036179,"nickName":"yifeng","smallAvatar":"http://img4.yytcdn.com/user/avatar/130307/5036179/2640013D4344C14A14EE5990565AA255_50x50.jpeg","largeAvatar":"http://img4.yytcdn.com/user/avatar/130307/5036179/2640013D4344C14A14EE5990565AA255_100x100.jpeg","vipLevel":0},"status":0,"totalViews":19869,"totalFavorites":207,"updateTime":"2016-05-08 19:10","createdTime":"2016-05-08 18:57","integral":45,"weekIntegral":45,"totalUser":5,"rank":0}]

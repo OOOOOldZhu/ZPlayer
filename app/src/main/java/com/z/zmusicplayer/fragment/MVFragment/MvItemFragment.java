@@ -19,7 +19,7 @@ import butterknife.ButterKnife;
 import butterknife.InjectView;
 
 /**
- * Created by z on 2017/7/16.
+ * Created by z on 2014/7/16.
  */
 
 public class MvItemFragment extends BaseFragment implements MVItemContract.View {

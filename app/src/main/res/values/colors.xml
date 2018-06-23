@@ -5,6 +5,8 @@
     <color name="colorAccent">#FF4081</color>
     <color name="textcolor">#e2407e</color>
     <color name="green_light">#1ec399</color>
+    <color name="textgray">#1ec399</color>
     <color name="white">#f5f7f7</color>
+    <color name="colorMusicProgress">#31c3ff</color>
 
 </resources>

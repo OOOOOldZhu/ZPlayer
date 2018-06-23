@@ -15,7 +15,7 @@ import android.widget.CursorAdapter;
 import android.widget.ListView;
 
 import com.z.zmusicplayer.bean.MusicItem;
-import com.z.zmusicplayer.MusicPlayerActivity;
+import com.z.zmusicplayer.activity.MusicPlayerActivity;
 import com.z.zmusicplayer.R;
 import com.z.zmusicplayer.adapter.MusicAdapter;
 import com.z.zmusicplayer.db.MyAsyncQueryHandler;
@@ -23,7 +23,7 @@ import com.z.zmusicplayer.db.MyAsyncQueryHandler;
 import java.util.ArrayList;
 
 /**
- * Created by z on 2017/6/25.
+ * Created by z on 2014/6/25.
  */
 
 public class VbangFragment extends BaseFragment {

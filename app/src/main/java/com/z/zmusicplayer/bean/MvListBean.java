@@ -2,11 +2,6 @@ package com.z.zmusicplayer.bean;
 
 import java.util.List;
 
-/**
- * Created by Mr.Wang
- * Date  2016/9/4.
- * Email 1198190260@qq.com
- */
 public class MvListBean {
 
     private int totalCount;

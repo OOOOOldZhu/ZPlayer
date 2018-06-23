@@ -15,7 +15,7 @@ import android.widget.TextView;
 import com.z.zmusicplayer.R;
 
 /**
- * Created by z on 2017/6/27.
+ * Created by z on 2014/6/27.
  */
 //CursorAdapter也是继承的baseadapter
 public class MusicAdapter extends CursorAdapter {

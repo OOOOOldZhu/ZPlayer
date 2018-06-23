@@ -20,7 +20,7 @@ import butterknife.ButterKnife;
 import butterknife.InjectView;
 
 /**
- * Created by z on 2017/6/25.
+ * Created by z on 2014/6/25.
  */
 
 public class YuedanFragment extends BaseFragment implements YuedanContract.YuedanView {

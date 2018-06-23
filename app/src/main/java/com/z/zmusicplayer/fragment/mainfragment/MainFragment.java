@@ -23,7 +23,7 @@ import okhttp3.Response;
 import static com.z.zmusicplayer.fragment.mainfragment.MainfragmentContract.*;
 
 /**
- * Created by z on 2017/6/25.
+ * Created by z on 2014/6/25.
  */
 
 public class MainFragment extends BaseFragment implements MainfragmentContract.View<MainfragmentContract.Presenter> {

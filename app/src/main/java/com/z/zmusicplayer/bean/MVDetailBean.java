@@ -6,11 +6,6 @@ import android.os.Parcelable;
 import java.util.ArrayList;
 import java.util.List;
 
-/**<p>详情页，有相关内容</p>
- * Created by Mr.Yangxiufeng
- * DATE 2016/5/20
- * YinYueTai
- */
 public class MVDetailBean implements Parcelable {
     private int id;
     private String title;

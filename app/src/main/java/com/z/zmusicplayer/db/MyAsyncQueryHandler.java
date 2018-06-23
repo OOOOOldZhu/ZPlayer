@@ -7,9 +7,6 @@ import android.net.Uri;
 
 import com.z.zmusicplayer.adapter.MusicAdapter;
 
-/**
- * Created by z on 2017/7/2.
- */
 
 public class MyAsyncQueryHandler extends AsyncQueryHandler{
     public MyAsyncQueryHandler(ContentResolver cr) {

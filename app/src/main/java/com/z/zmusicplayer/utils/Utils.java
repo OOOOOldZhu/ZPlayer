@@ -1,16 +1,13 @@
 package com.z.zmusicplayer.utils;
 
 /**
- * Created by z on 2017/7/2.
+ * Created by z on 2014/7/2.
  */
 import android.content.Context;
 import android.database.Cursor;
 import android.util.Log;
 import android.widget.Toast;
 
-/**
- * Created by fullcircle on 2017/1/15.
- */
 
 public class Utils {
 

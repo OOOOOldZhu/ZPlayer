@@ -20,7 +20,7 @@ import butterknife.InjectView;
 import de.hdodenhof.circleimageview.CircleImageView;
 
 /**
- * Created by z on 2017/7/9.
+ * Created by z on 2014/7/9.
  */
 
 public class YuedanAdapter extends RecyclerView.Adapter<YuedanAdapter.YuedanHolder> {

@@ -5,11 +5,6 @@ import android.os.Parcelable;
 
 import java.util.List;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/5/23
- * YinYueTai
- */
 public class YueDanDetailBean implements Parcelable {
     /**
      * id : 4207019

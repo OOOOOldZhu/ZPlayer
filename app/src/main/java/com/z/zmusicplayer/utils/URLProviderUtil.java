@@ -1,7 +1,7 @@
 package com.z.zmusicplayer.utils;
 
 /**
- * Created by z on 2017/7/2.
+ * Created by z on 2014/7/2.
  */
 
 import android.util.Log;

@@ -7,7 +7,7 @@ import com.z.zmusicplayer.fragment.BaseView;
 import java.util.List;
 
 /**
- * Created by z on 2017/7/16.
+ * Created by z on 2014/7/16.
  */
 
 public interface MVItemContract {
